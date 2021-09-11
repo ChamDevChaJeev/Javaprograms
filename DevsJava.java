@@ -4,7 +4,7 @@
 class student{
 int id=1;//instant variable declared inside class but outside main
 String name="Jeeth";
-//cewate main method
+//create main method
 //public static void main(String[] args){
 public static void main(String args[]){  
 //create object or instance
